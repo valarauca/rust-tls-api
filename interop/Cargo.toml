@@ -7,4 +7,3 @@ authors = ["Stepan Koltsov <stepan.koltsov@gmail.com>"]
 tls-api-test       = { version = "0.1.9", path = "../api-test" }
 tls-api-openssl    = { version = "0.1.9", path = "../impl-openssl" }
 tls-api-rustls     = { version = "0.1.9", path = "../impl-rustls" }
-tls-api-native-tls = { version = "0.1.9", path = "../impl-native-tls" }
